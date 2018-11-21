@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Apache poi/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/libs/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/client-combined-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/eboojad/Desktop/ATT Activities/Selenium/Selenium jars/client-combined-3.14.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
